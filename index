@@ -1,0 +1,11 @@
+<!Doctype html>
+<html>
+             <head>
+                          <title>
+                                   HTML video example 
+                          </title>
+           </head>
+      <body>
+<video src="screen recording.MP4" height="300" width="600"controls></video>
+</body>     
+     </html>
